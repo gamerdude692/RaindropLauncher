@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Raindrop Launcher</string>
+
+    <!-- 20 CORE SAMSUNG PACKAGES (One UI UI-Centric) -->
+    <string name="pkg_s_dialer">com.samsung.android.dialer</string>
+    <string name="pkg_s_messaging">com.samsung.android.messaging</string>
+    <string name="pkg_s_contacts">com.samsung.android.contacts</string>
+    <string name="pkg_s_gallery">com.samsung.android.gallery3d</string>
+    <string name="pkg_s_camera">com.sec.android.app.camera</string>
+    <string name="pkg_s_calendar">com.samsung.android.calendar</string>
+    <string name="pkg_s_notes">com.samsung.android.app.notes</string>
+    <string name="pkg_s_browser">com.sec.android.app.sbrowser</string>
+    <string name="pkg_s_files">com.sec.android.app.myfiles</string>
+    <string name="pkg_s_clock">com.sec.android.app.clockpackage</string>
+    <string name="pkg_s_calculator">com.sec.android.app.popupcalculator</string>
+    <string name="pkg_s_weather">com.samsung.android.weather</string>
+    <string name="pkg_s_store">com.sec.android.app.samsungapps</string>
+    <string name="pkg_s_members">com.samsung.android.voc</string>
+    <string name="pkg_s_wallet">com.samsung.android.spay</string>
+    <string name="pkg_s_pass">com.samsung.android.samsungpass</string>
+    <string name="pkg_s_health">com.samsung.android.app.shealth</string>
+    <string name="pkg_s_wearable">com.samsung.android.app.watchmanager</string>
+    <string name="pkg_s_smartthings">com.samsung.android.oneconnect</string>
+    <string name="pkg_s_bixby">com.samsung.android.bixby.agent</string>
+
+    <!-- 20 CORE GOOGLE PACKAGES (GMS Essentials) -->
+    <string name="pkg_g_search">com.google.android.googlequicksearchbox</string>
+    <string name="pkg_g_chrome">com.android.chrome</string>
+    <string name="pkg_g_gmail">com.google.android.gm</string>
+    <string name="pkg_g_maps">com.google.android.apps.maps</string>
+    <string name="pkg_g_youtube">com.google.android.youtube</string>
+    <string name="pkg_g_photos">com.google.android.apps.photos</string>
+    <string name="pkg_g_drive">com.google.android.apps.docs</string>
+    <string name="pkg_g_playstore">com.android.vending</string>
+    <string name="pkg_g_calendar">com.google.android.calendar</string>
+    <string name="pkg_g_keep">com.google.android.keep</string>
+    <string name="pkg_g_messages">com.google.android.apps.messaging</string>
+    <string name="pkg_g_contacts">com.google.android.contacts</string>
+    <string name="pkg_g_dialer">com.google.android.dialer</string>
+    <string name="pkg_g_assistant">com.google.android.apps.googleassistant</string>
+    <string name="pkg_g_lens">com.google.ar.lens</string>
+    <string name="pkg_g_translate">com.google.android.apps.translate</string>
+    <string name="pkg_g_home">com.google.android.apps.chromecast.app</string>
+    <string name="pkg_g_wallet">com.google.android.apps.walletnfcrel</string>
+    <string name="pkg_g_news">com.google.android.apps.magazines</string>
+    <string name="pkg_g_findmy">com.google.android.apps.adm</string>
+
+    <!-- UI: Grid, Drawer & API Scanning -->
+    <string name="drawer_title">Apps screen</string>
+    <string name="search_hint">Search apps...</string>
+    <string name="grid_layout_3col">O  O  O Pattern</string>
+    <string name="api_scan_status">Scanning Galaxy for apps...</string>
+    <string name="intent_action_main">android.intent.action.MAIN</string>
+    <string name="intent_category_launcher">android.intent.category.LAUNCHER</string>
+
+    <!-- Interaction: Drag n Drop & Customization -->
+    <string name="drag_start">Pickup</string>
+    <string name="drop_success">Placed</string>
+    <string name="edit_label">Rename</string>
+    <string name="edit_hint">Custom name...</string>
+    <string name="change_icon">Change Icon</string>
+
+    <!-- 4 Widget Categories -->
+    <string name="cat_samsung">Galaxy Widgets</string>
+    <string name="cat_google">Google Widgets</string>
+    <string name="cat_custom">KWGT Custom</string>
+    <string name="cat_smart">Smart Stacks</string>
+
+    <!-- Permissions & System -->
+    <string name="perm_query_all">Allow Raindrop to see all apps</string>
+    <string name="perm_bind_widgets">Allow Raindrop to host widgets</string>
+    <string name="set_default">Set Raindrop as Default Home</string>
+</resources>
