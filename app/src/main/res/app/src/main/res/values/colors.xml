@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Raindrop Brand Colors -->
+    <color name="raindrop_blue_primary">#2196F3</color>
+    <color name="raindrop_blue_dark">#1976D2</color>
+    <color name="raindrop_accent">#00BCD4</color>
+
+    <!-- Glassmorphism / Transparency (For that Samsung Look) -->
+    <color name="glass_white_20">#33FFFFFF</color> <!-- 20% White for folder backgrounds -->
+    <color name="glass_white_50">#80FFFFFF</color> <!-- 50% White for app drawer search bar -->
+    <color name="glass_black_40">#66000000</color> <!-- 40% Black for dark mode grid -->
+
+    <!-- Text Colors -->
+    <color name="icon_label_white">#FFFFFF</color> <!-- Best for dark wallpapers -->
+    <color name="icon_label_black">#000000</color> <!-- For light mode/white wallpapers -->
+    <color name="error_red">#F44336</color>
+
+    <!-- System Overrides -->
+    <color name="transparent">#00000000</color>
+    <color name="status_bar_overlay">#1A000000</color> <!-- Very light tint for visibility -->
+</resources>
